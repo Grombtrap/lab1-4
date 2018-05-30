@@ -152,7 +152,8 @@ public class HelloWorld{
                 lab3.shadowbodylab3();}
             
             else if(num1==4){//lab.4
-                
+                HelloWorld lab4 = new HelloWorld();
+                lab4.shadowbodylab4();
             }
         }
 }
